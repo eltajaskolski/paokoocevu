@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheevaixa.oleggromov.com/sitemap.xml
